@@ -1,5 +1,5 @@
 void main() {
-  // const channel = MethodChannel('flutter_login_facebook');
+  // const channel = MethodChannel('flutter_login_facebook_plus');
 
   // TestWidgetsFlutterBinding.ensureInitialized();
 

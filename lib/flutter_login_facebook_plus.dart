@@ -1,4 +1,4 @@
-library flutter_login_facebook;
+library flutter_login_facebook_plus;
 
 export './src/facebook_login.dart';
 export './src/models/facebook_user_profile.dart';

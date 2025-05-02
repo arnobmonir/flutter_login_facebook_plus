@@ -2,12 +2,12 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_login_facebook/src/plugin_method.dart';
+import 'package:flutter_login_facebook_plus/src/plugin_method.dart';
 
 class FacebookPluginChannel {
   static const _methodReady = 'ready';
 
-  final _channel = const MethodChannel('flutter_login_facebook');
+  final _channel = const MethodChannel('flutter_login_facebook_plus');
   final _readyCompleter = Completer<void>();
 
   FacebookPluginChannel() {

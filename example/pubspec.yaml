@@ -1,5 +1,5 @@
 name: flutter_login_facebook_example
-description: Demonstrates how to use the flutter_login_facebook plugin.
+description: Demonstrates how to use the flutter_login_facebook_plus plugin.
 version: 1.0.0
 publish_to: none
 
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_login_facebook:
+  flutter_login_facebook_plus:
     path: ../
 
 dev_dependencies:

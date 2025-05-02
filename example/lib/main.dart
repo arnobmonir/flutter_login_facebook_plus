@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_login_facebook/flutter_login_facebook.dart';
+import 'package:flutter_login_facebook_plus/flutter_login_facebook_plus.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

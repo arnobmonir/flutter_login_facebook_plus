@@ -1,4 +1,4 @@
-group 'ru.innim.flutter_login_facebook'
+group 'arnob.monir.flutter_login_facebook_plus'
 version '1.3'
 
 buildscript {
@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'arnob.monir.flutter_login_facebook_plus'
     compileSdkVersion 28
 
     defaultConfig {

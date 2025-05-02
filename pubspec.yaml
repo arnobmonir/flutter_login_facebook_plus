@@ -23,7 +23,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: ru.innim.flutter_login_facebook
+        package: arnob.monir.flutter_login_facebook_plus
         pluginClass: FlutterLoginFacebookPlugin
       ios:
         pluginClass: FlutterLoginFacebookPlugin

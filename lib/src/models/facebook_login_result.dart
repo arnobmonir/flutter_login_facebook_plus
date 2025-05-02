@@ -1,4 +1,4 @@
-import 'package:flutter_login_facebook/flutter_login_facebook.dart';
+import 'package:flutter_login_facebook_plus/flutter_login_facebook_plus.dart';
 
 import 'types.dart';
 

@@ -1,4 +1,4 @@
-package ru.innim.flutter_login_facebook;
+package arnob.monir.flutter_login_facebook_plus;
 
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;

@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_login_facebook/flutter_login_facebook.dart';
+import 'package:flutter_login_facebook_plus/flutter_login_facebook_plus.dart';
 
 import 'facebook_plugin_channel.dart';
 import 'models/types.dart';

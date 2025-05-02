@@ -1,4 +1,4 @@
-package ru.innim.flutter_login_facebook;
+package arnob.monir.flutter_login_facebook_plus;
 
 import androidx.annotation.NonNull;
 
@@ -13,7 +13,7 @@ import io.flutter.plugin.common.MethodChannel;
 
 /** FlutterLoginFacebookPlugin */
 public class FlutterLoginFacebookPlugin implements FlutterPlugin, ActivityAware {
-    private static final String _CHANNEL_NAME = "flutter_login_facebook";
+    private static final String _CHANNEL_NAME = "flutter_login_facebook_plus";
     private static final String _METHOD_READY = "ready";
 
     private MethodChannel _dartChannel;

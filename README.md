@@ -223,7 +223,7 @@ You can:
 Sample code:
 
 ```dart
-import 'package:flutter_login_facebook/flutter_login_facebook.dart';
+import 'package:flutter_login_facebook_plus/flutter_login_facebook_plus.dart';
 
 // Create an instance of FacebookLogin
 final fb = FacebookLogin();
@@ -294,7 +294,7 @@ See [documentation](https://developers.facebook.com/docs/facebook-login/android/
 Example: 
 
 ```dart
-import 'package:flutter_login_facebook/flutter_login_facebook.dart';
+import 'package:flutter_login_facebook_plus/flutter_login_facebook_plus.dart';
 
 // Create an instance of FacebookLogin
 final fb = FacebookLogin();
