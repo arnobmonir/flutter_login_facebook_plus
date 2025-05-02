@@ -1,5 +1,5 @@
 #import "FlutterLoginFacebookPlugin.h"
-#if __has_include(<flutter_login_facebook/flutter_login_facebook-Swift.h>)
+#if __has_include(<flutter_login_facebook_plus/flutter_login_facebook-Swift.h>)
 #import <flutter_login_facebook/flutter_login_facebook-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
