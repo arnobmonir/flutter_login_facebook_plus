@@ -11,7 +11,7 @@ library_version = pubspec['version'].gsub('+', '-')
 
 # Pod spec
 Pod::Spec.new do |s|
-  s.name             = 'flutter_login_facebook'
+  s.name             = 'flutter_login_facebook_plus'
   s.version          = library_version
   s.summary          = 'Login via Facebook for Flutter projects.'
   s.description      = <<-DESC
