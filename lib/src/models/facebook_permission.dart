@@ -131,7 +131,26 @@ enum FacebookPermission {
   instagramBasic,
 
   /// Allows you to publish content to a person's Instagram feed as the person.
-  instagramContentPublish
+  instagramContentPublish,
+
+  ///Latest Permissions
+  /// Allows your app to manage ads for the Pages that you manage.
+  adsManagement,
+
+  /// Allows your app to manage the metadata of the Pages that you manage.
+  pagesManageMetadata,
+
+  /// Allows your app to manage the business settings of the Pages that you manage.
+  businessManagement,
+
+  /// Allows your app to manage the content of the Pages that you manage.
+  pagesManageEngagement,
+
+  /// Allows your app to manage the content of the Pages that you manage.
+  pagesReadUserContent,
+
+  /// Allows your app to manage the content of the Pages that you manage.
+  pagesMessaging,
 }
 
 extension FacebookPermissionExtension on FacebookPermission {
@@ -182,4 +201,11 @@ final _mapToString = {
   FacebookPermission.adsRead: 'ads_read',
   FacebookPermission.instagramBasic: 'instagram_basic',
   FacebookPermission.instagramContentPublish: 'instagram_content_publish',
+  // latest permissions
+  FacebookPermission.adsManagement: 'ads_management',
+  FacebookPermission.pagesManageMetadata: 'pages_manage_metadata',
+  FacebookPermission.businessManagement: 'business_management',
+  FacebookPermission.pagesManageEngagement: 'pages_manage_engagement',
+  FacebookPermission.pagesReadUserContent: 'pages_read_user_content',
+  FacebookPermission.pagesMessaging: 'pages_messaging',
 };
