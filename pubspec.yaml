@@ -1,6 +1,6 @@
 name: flutter_login_facebook_plus
 description: Login via Facebook. Easily add Facebook login feature in your application. User profile information included.
-version: 2.0.1
+version: 2.0.2
 homepage: https://github.com/arnobmonir/flutter_login_facebook_plus.git
 repository: https://github.com/arnobmonir/flutter_login_facebook_plus.git
 issue_tracker: https://github.com/arnobmonir/flutter_login_facebook_plus.git/issues
