@@ -1,7 +1,7 @@
 # flutter_login_facebook
 
-[![pub package](https://img.shields.io/pub/v/flutter_login_facebook)](https://pub.dartlang.org/packages/flutter_login_facebook)
-![Analyze & Test](https://github.com/Innim/flutter_login_facebook/actions/workflows/dart.yml/badge.svg?branch=master)
+[![pub package](https://img.shields.io/pub/v/flutter_login_facebook_plus)](https://pub.dartlang.org/packages/flutter_login_facebook_plus)
+![Analyze & Test](https://github.com/Innim/flutter_login_facebook_plus/actions/workflows/dart.yml/badge.svg?branch=master)
 [![innim lint](https://img.shields.io/badge/style-innim_lint-40c4ff.svg)](https://pub.dev/packages/innim_lint)
 
 Flutter Plugin to login via Facebook.
@@ -27,7 +27,7 @@ you should [upgrade it](https://github.com/flutter/flutter/wiki/Upgrading-pre-1.
 
 To use this plugin:
 
- 1. add `flutter_login_facebook` as a [dependency in your pubspec.yaml file](https://pub.dev/packages/flutter_login_facebook#-installing-tab-);
+ 1. add `flutter_login_facebook_plus` as a [dependency in your pubspec.yaml file](https://pub.dev/packages/flutter_login_facebook#-installing-tab-);
  2. [setup android](#android);
  3. [setup ios](#ios);
  4. [additional Facebook app setup](#additional-facebook-app-setup);
