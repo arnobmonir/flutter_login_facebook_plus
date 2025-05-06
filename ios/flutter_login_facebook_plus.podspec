@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Login via Facebook for Flutter projects.
                        DESC
-  s.homepage         = 'https://github.com/Innim/flutter_login_facebook'
+  s.homepage         = 'https://github.com/arnobmonir/flutter_login_facebook_plus.git'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Innim' => 'developer@innim.org' }
   s.source           = { :path => '.' }

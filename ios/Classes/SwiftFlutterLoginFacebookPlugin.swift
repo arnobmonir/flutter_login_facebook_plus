@@ -27,7 +27,7 @@ enum LocalStoreKey: String {
     case limitedLogin
     
     var value: String {
-        return "flutter_login_facebook.\(rawValue)"
+        return "flutter_login_facebook_plus.\(rawValue)"
     }
 }
 
@@ -47,7 +47,7 @@ class FbAppObserver : FBSDKApplicationObserving {
 
 public class SwiftFlutterLoginFacebookPlugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
-        let channel = FlutterMethodChannel(name: "flutter_login_facebook", binaryMessenger: registrar.messenger())
+        let channel = FlutterMethodChannel(name: "flutter_login_facebook_plus", binaryMessenger: registrar.messenger())
         let instance = SwiftFlutterLoginFacebookPlugin(channel: channel)
         
         registrar.addMethodCallDelegate(instance, channel: channel)
